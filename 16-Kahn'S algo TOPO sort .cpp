@@ -1,4 +1,4 @@
-
+// Kahn's Algorithm is BFS of Topological Sort. 
 // BFS TECHNIQUE 
 class Solution
 {
