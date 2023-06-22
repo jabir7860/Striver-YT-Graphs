@@ -40,7 +40,7 @@ vector<int> shortestPath(int n, int m, vector<vector<int>>& edges) {
         if(dist[n] == 1e9) return {-1};
         vector<int> ans;
         int node = n;
-        while(parent[node] != node){
+        while(parent[node] != node){ // Parent of each and every node stores here
             ans.push_back(node);
             node = parent[node];
         }
