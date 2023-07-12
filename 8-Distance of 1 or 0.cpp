@@ -1,3 +1,6 @@
+https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+
 vector<vector<int>>nearest(vector<vector<int>>grid)
 	{
 	    int n=grid.size(); 
