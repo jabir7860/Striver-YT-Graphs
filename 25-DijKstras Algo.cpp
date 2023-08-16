@@ -95,4 +95,6 @@ vector <int> dijkstra(int V, vector<vector<int>> adj[], int S)
         }
         
         return dist;
-    }
+    } 
+===========================================
+  TC : O(V^2) SC :O(N) 
